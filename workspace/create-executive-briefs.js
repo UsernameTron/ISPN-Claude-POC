@@ -32,7 +32,7 @@ const executives = [
   },
   {
     name: 'Scott Lauber',
-    title: 'Chief Technology Officer',
+    title: 'President & CFO',
     challenge: 'Spends 10+ hours weekly on code reviews, 8+ hours on documentation, and struggles with architecture analysis across growing codebase. Manual processes create bottlenecks in development velocity and technical decision-making.',
     solution: 'Claude AI for Code Review & Documentation Automation: intelligent code analysis, automated technical documentation generation, architecture recommendations, security vulnerability detection, and onboarding acceleration.',
     impact: [

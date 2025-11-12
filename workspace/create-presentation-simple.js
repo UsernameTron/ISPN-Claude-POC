@@ -114,9 +114,9 @@ async function createPresentation() {
     { text: '15,000%' }
   ], { x: 5.6, y: 3.4, w: 3.7, h: 0.4, fontSize: 14, color: '2E4053' });
 
-  // Slide 5: Scott Lauber - CTO
+  // Slide 5: Scott Lauber - President & CFO
   const slide5 = pptx.addSlide();
-  slide5.addText('Scott Lauber - Chief Technology Officer', {
+  slide5.addText('Scott Lauber - President & CFO', {
     x: 0.5, y: 0.4, w: 9, h: 0.6,
     fontSize: 32, bold: true, color: '1C2833'
   });
@@ -329,7 +329,7 @@ async function createPresentation() {
       { text: 'Payback', options: { fill: { color: '1C2833' }, color: 'FFFFFF', bold: true } }
     ],
     ['Jeff Neblett (CEO)', '$1.2M-1.5M', '15-20 hrs/wk', '3 days'],
-    ['Scott Lauber (CTO)', '$850K-1.2M', '15-20 hrs/wk', '5 days'],
+    ['Scott Lauber (President & CFO)', '$850K-1.2M', '15-20 hrs/wk', '5 days'],
     ['Charlie Brenneman (Ops)', '$2.5M+', '30 hrs/wk', '7 days'],
     ['Ty Sorensen (Sales)', '$1.6M-2M', '25-30 hrs/wk', '7 days'],
     ['Bryon Gaddy (Finance)', '$100K-160K', '30-40 hrs/mo', '14 days']

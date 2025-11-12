@@ -31,7 +31,7 @@ executives = [
     },
     {
         'name': 'Scott Lauber',
-        'title': 'Chief Technology Officer',
+        'title': 'President & CFO',
         'mcps': [
             'Filesystem MCP (codebase access)',
             'GitHub MCP (repository management)',

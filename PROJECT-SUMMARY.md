@@ -30,7 +30,7 @@ This POC demonstrates how Claude AI can transform executive operations at ISPN a
 - [07-value-metrics.md](stakeholder-profiles/Neblett-Jeff/07-value-metrics.md) - ROI analysis and calculations
 - [08-integration-stack.md](stakeholder-profiles/Neblett-Jeff/08-integration-stack.md) - Technical implementation details
 
-#### Scott Lauber - Chief Technology Officer
+#### Scott Lauber - President & CFO
 **Location:** `stakeholder-profiles/Lauber-Scott/`
 - [01-profile.md](stakeholder-profiles/Lauber-Scott/01-profile.md) - Technical leadership context
 - [02-role-analysis.md](stakeholder-profiles/Lauber-Scott/02-role-analysis.md) - Development workflow challenges
@@ -144,7 +144,7 @@ Pocket-sized (4"x6") reference cards with MCPs enabled, skills to use, top 3 pro
 
 ---
 
-### Scott Lauber - Chief Technology Officer
+### Scott Lauber - President & CFO
 
 **Primary Value:** Engineering productivity multiplication
 - **Time Reclaimed:** 15-20 hours weekly (80% reduction in code review and documentation)
@@ -280,7 +280,7 @@ Pocket-sized (4"x6") reference cards with MCPs enabled, skills to use, top 3 pro
 | Executive | Annual Value | Time Savings | Payback Period | ROI |
 |-----------|-------------|--------------|----------------|-----|
 | Jeff Neblett (CEO) | $1.2M-1.5M | 15-20 hrs/wk | 3 days | 15,000% |
-| Scott Lauber (CTO) | $850K-1.2M | 15-20 hrs/wk | 5 days | 10,000%+ |
+| Scott Lauber (President & CFO) | $850K-1.2M | 15-20 hrs/wk | 5 days | 10,000%+ |
 | Charlie Brenneman (Ops) | $2.5M+ | 30 hrs/wk | 7 days | 5,000%+ |
 | Ty Sorensen (Sales) | $1.6M-2M | 25-30 hrs/wk | 7 days | 4,500%+ |
 | Bryon Gaddy (Finance) | $100K-160K | 30-40 hrs/mo | 14 days | 2,500% |
