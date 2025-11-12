@@ -1,0 +1,23 @@
+:root {
+  /* Professional color palette - Deep Purple & Emerald with corporate blues */
+  --color-primary: #2E4A7C;
+  --color-secondary: #40695B;
+  --color-accent: #B165FB;
+  --color-dark: #1C2833;
+  --color-surface: #F4F6F7;
+  --color-text: #2C3E50;
+  --color-text-light: #7F8C8D;
+  --color-white: #FFFFFF;
+  --color-success: #27AE60;
+  --color-warning: #F39C12;
+  
+  /* Typography */
+  --font-main: Arial, Helvetica, sans-serif;
+  --font-heading: Arial, Helvetica, sans-serif;
+  
+  /* Spacing */
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+}
