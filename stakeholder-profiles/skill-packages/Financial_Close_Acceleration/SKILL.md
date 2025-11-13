@@ -1,10 +1,6 @@
 ---
 name: financial-close-acceleration
 description: Month-end close automation reducing 7-day close to 4 days with automated reconciliations, multi-entity consolidation, variance analysis, and board reporting package generation
-tags: [finance, accounting, month-end-close, consolidation, cfo, automation]
-category: Finance & Accounting
-target_users: ["Chief Financial Officer", "Controller", "Accounting Manager", "CFO Team"]
-prerequisites: ["Filesystem MCP", "XLSX skill", "DOCX skill"]
 ---
 
 # Financial Close Acceleration

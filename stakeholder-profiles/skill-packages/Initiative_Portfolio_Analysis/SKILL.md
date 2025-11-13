@@ -1,10 +1,6 @@
 ---
 name: initiative-portfolio-analysis
 description: Cross-functional initiative portfolio management for 15-25 concurrent strategic projects with health scoring, dependency mapping, resource conflict detection, and executive decision support
-tags: [portfolio-management, strategic-initiatives, resource-optimization, cross-functional, executive, operations]
-category: Executive Leadership & Operations
-target_users: ["Chief Executive Officer", "SVP Operations", "Chief Operating Officer", "Program Management Office"]
-prerequisites: ["Asana MCP access", "Filesystem MCP access", "Slack MCP access", "XLSX skill"]
 ---
 
 # Initiative Portfolio Analysis

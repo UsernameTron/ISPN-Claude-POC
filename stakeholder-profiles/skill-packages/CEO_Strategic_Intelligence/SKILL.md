@@ -1,10 +1,6 @@
 ---
 name: ceo-strategic-intelligence
 description: CEO-level strategic intelligence consolidating 15+ data sources for M&A evaluation, board reporting, and real-time operational visibility across multi-acquisition organization
-tags: [ceo, executive, strategy, m&a, board, intelligence, consolidation]
-category: Executive Leadership
-target_users: ["Chief Executive Officer", "President", "Managing Director"]
-prerequisites: ["Asana MCP access", "Filesystem MCP access", "Slack MCP access", "DOCX/XLSX/PPTX skills"]
 ---
 
 # CEO Strategic Intelligence

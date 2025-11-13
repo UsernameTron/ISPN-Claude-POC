@@ -1,10 +1,6 @@
 ---
 name: erate-market-intelligence
 description: E-rate funding cycle tracking, Form 470/471 monitoring, K-12 rural broadband opportunity analysis, seasonal revenue forecasting for educational technology services
-tags: [erate, k12, education, funding, rural-broadband, seasonal, revenue-forecasting]
-category: Operations & Sales
-target_users: ["VP Sales", "Sales Operations", "Business Development", "CEO"]
-prerequisites: ["Filesystem MCP", "Slack MCP", "XLSX skill"]
 ---
 
 # E-rate Market Intelligence

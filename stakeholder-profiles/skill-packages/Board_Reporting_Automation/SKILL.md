@@ -1,10 +1,6 @@
 ---
 name: board-reporting-automation
 description: Automated board presentation generation pulling live data from Asana, Salesforce, Finance GL for quarterly board meetings with executive narrative and data visualization
-tags: [board-reporting, executive-presentations, cross-functional, strategic-intelligence, multi-executive]
-category: Executive Leadership & Board Relations
-target_users: ["CEO", "President & CFO", "SVP Operations", "Board Relations Executives"]
-prerequisites: ["Asana MCP access", "Salesforce MCP access", "Finance GL Integration", "Filesystem MCP access", "PPTX skill"]
 ---
 
 # Board Reporting Automation

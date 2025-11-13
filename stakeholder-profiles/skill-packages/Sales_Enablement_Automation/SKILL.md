@@ -1,10 +1,6 @@
 ---
 name: sales-enablement-automation
 description: Sales productivity automation for K-12 rural broadband including proposal generation, RFP responses, pricing models, competitive intelligence, and CRM automation with E-rate expertise
-tags: [sales-enablement, sales-automation, proposals, rfp, e-rate, k12, pricing, competitive-intelligence, deal-desk]
-category: Sales & Revenue
-target_users: ["VP Sales", "Sales Representatives", "Sales Operations", "Account Executives"]
-prerequisites: ["Salesforce/CRM MCP access (CRITICAL)", "Filesystem MCP access (CRITICAL)", "Optional: HubSpot MCP", "Optional: Pricing database access"]
 ---
 
 # Sales Enablement Automation

@@ -1,10 +1,6 @@
 ---
 name: customer-health-intelligence
 description: Customer health scoring and churn prediction for K-12 school districts using multi-factor analysis of usage, support tickets, satisfaction, and engagement patterns
-tags: [customer-success, churn-prediction, retention, k12-education, customer-health, revenue-operations]
-category: Customer Success & Revenue Operations
-target_users: ["VP Customer Success", "Customer Success Managers", "Account Executives", "VP Sales"]
-prerequisites: ["Salesforce MCP access", "Zendesk MCP access", "Usage data integration"]
 ---
 
 # Customer Health Intelligence

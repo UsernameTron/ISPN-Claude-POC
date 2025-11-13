@@ -1,10 +1,6 @@
 ---
 name: executive-dashboard-intelligence
 description: Unified executive dashboard consolidating 15+ disconnected information sources with real-time KPIs across operations, finance, sales, and customers for all executives
-tags: [executive-dashboard, business-intelligence, kpi, cross-functional, real-time, consolidation]
-category: Executive Leadership
-target_users: ["All Executives", "CEO", "CFO", "SVP Operations", "VP Sales", "Leadership Team"]
-prerequisites: ["Asana MCP", "Filesystem MCP", "Slack MCP", "XLSX skill"]
 ---
 
 # Executive Dashboard Intelligence

@@ -1,10 +1,6 @@
 ---
 name: ma-integration-intelligence
 description: M&A integration tracking for multiple acquisitions (iGLASS 2023, DxTEL 2025, future deals) with synergy monitoring, consolidation status, customer retention tracking, and risk management
-tags: [m&a, integration, synergies, acquisitions, executive, ceo, cfo, operations]
-category: Executive Leadership & M&A
-target_users: ["Chief Executive Officer", "Chief Financial Officer", "SVP Operations", "M&A Team"]
-prerequisites: ["Asana MCP access", "Filesystem MCP access", "Slack MCP access", "XLSX skill", "DOCX skill"]
 ---
 
 # M&A Integration Intelligence

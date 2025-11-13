@@ -1,10 +1,6 @@
 ---
 name: financial-controls-automation
 description: Financial close acceleration, reconciliation automation, and audit readiness for controllers managing month-end/quarter-end close processes
-tags: [finance, controller, accounting, close-process, reconciliation, audit, compliance]
-category: Financial Management
-target_users: ["Controller", "CPA", "Finance Director", "Chief Accounting Officer"]
-prerequisites: ["Filesystem MCP access", "Asana MCP access", "XLSX skill"]
 ---
 
 # Financial Controls Automation

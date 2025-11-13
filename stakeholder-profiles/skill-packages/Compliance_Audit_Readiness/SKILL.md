@@ -1,10 +1,6 @@
 ---
 name: compliance-audit-readiness
 description: Continuous audit readiness with compliance monitoring, documentation automation, control testing, and audit preparation for PE-backed multi-acquisition organizations
-tags: [compliance, audit, controls, sox, financial-reporting, pe-backed, governance]
-category: Finance & Compliance
-target_users: ["Chief Financial Officer", "Controller", "Compliance Officer", "Audit Committee"]
-prerequisites: ["Filesystem MCP", "DOCX skill", "XLSX skill"]
 ---
 
 # Compliance & Audit Readiness

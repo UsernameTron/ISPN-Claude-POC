@@ -1,10 +1,6 @@
 ---
 name: revenue-operations-intelligence
 description: Revenue operations intelligence for sales/marketing/CS leaders managing E-rate seasonal patterns, customer health scoring, proposal automation, and marketing content generation in K-12 rural broadband market
-tags: [revenue-ops, sales, marketing, customer-success, e-rate, k12, forecasting, proposals]
-category: Revenue & Growth
-target_users: ["VP Sales", "VP Marketing", "VP Customer Success", "Chief Revenue Officer", "Revenue Operations"]
-prerequisites: ["Salesforce/CRM MCP access (CRITICAL)", "HubSpot MCP access", "Zendesk MCP access", "Filesystem MCP access", "Optional: E-rate data source"]
 ---
 
 # Revenue Operations Intelligence
