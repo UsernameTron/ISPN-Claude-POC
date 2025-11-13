@@ -1,0 +1,259 @@
+{
+  "skill_name": "revenue-operations-intelligence",
+  "version": "1.0",
+  "created_date": "2025-01",
+  "target_users": [
+    {
+      "role": "VP Sales",
+      "primary_use_cases": [
+        "E-rate revenue forecasting",
+        "Automated proposal generation",
+        "Sales deal coaching",
+        "Pipeline analysis and risk assessment"
+      ]
+    },
+    {
+      "role": "VP Marketing",
+      "primary_use_cases": [
+        "Marketing content creation (case studies, blog posts)",
+        "Account-based marketing strategy",
+        "Lead nurture campaign automation",
+        "Content velocity acceleration"
+      ]
+    },
+    {
+      "role": "VP Customer Success",
+      "primary_use_cases": [
+        "Customer health scoring and churn prediction",
+        "Proactive retention strategies",
+        "Expansion opportunity identification",
+        "QBR preparation automation"
+      ]
+    },
+    {
+      "role": "Chief Revenue Officer",
+      "primary_use_cases": [
+        "Unified revenue operations dashboard",
+        "Cross-functional performance analysis",
+        "Executive reporting automation",
+        "Strategic revenue planning"
+      ]
+    },
+    {
+      "role": "Revenue Operations Manager",
+      "primary_use_cases": [
+        "Sales enablement content generation",
+        "Process automation and optimization",
+        "Data integration and analysis",
+        "Tool utilization and ROI tracking"
+      ]
+    }
+  ],
+  "industry_focus": "K-12 Education",
+  "market_segment": "Rural Broadband Connectivity",
+  "key_differentiators": [
+    "E-rate funding cycle intelligence",
+    "K-12 buyer persona expertise",
+    "Rural broadband market specialization",
+    "Multi-year contract lifecycle management"
+  ],
+  "mcp_requirements": {
+    "critical": [
+      {
+        "name": "Salesforce/CRM MCP",
+        "purpose": "Customer data, pipeline opportunities, activities, forecasting",
+        "data_access": [
+          "Account records",
+          "Opportunity pipeline",
+          "Activity history",
+          "E-rate custom fields"
+        ]
+      }
+    ],
+    "important": [
+      {
+        "name": "HubSpot MCP",
+        "purpose": "Marketing automation, lead tracking, campaign performance",
+        "data_access": [
+          "Lead records and scoring",
+          "Email campaign metrics",
+          "Website analytics",
+          "Marketing attribution"
+        ]
+      },
+      {
+        "name": "Zendesk MCP",
+        "purpose": "Customer support tickets, satisfaction scores, service patterns",
+        "data_access": [
+          "Support ticket history",
+          "CSAT/NPS scores",
+          "Agent notes",
+          "SLA compliance"
+        ]
+      },
+      {
+        "name": "Filesystem MCP",
+        "purpose": "Document repository for templates, content, E-rate data",
+        "data_access": [
+          "Proposal templates",
+          "Marketing content library",
+          "Sales playbooks",
+          "E-rate reference data"
+        ]
+      }
+    ],
+    "optional": [
+      {
+        "name": "E-rate Data Source",
+        "purpose": "USAC application status, discount rates, funding timeline",
+        "alternatives": [
+          "Manual CSV upload via filesystem",
+          "CRM custom fields tracking",
+          "Web scraping of public databases"
+        ]
+      },
+      {
+        "name": "Google Analytics MCP",
+        "purpose": "Website traffic, content engagement, conversion tracking",
+        "data_access": [
+          "Page views and sessions",
+          "Content performance",
+          "Conversion funnels",
+          "Lead source attribution"
+        ]
+      }
+    ]
+  },
+  "roi_metrics": {
+    "total_annual_value": "$1,200,000 - $1,800,000",
+    "value_breakdown": {
+      "sales_productivity": {
+        "amount": "$267,000",
+        "drivers": [
+          "Proposal generation: 5 hours → 1 hour (300 hours saved annually)",
+          "Pipeline analysis: 10 hrs/week → 2 hrs/week (400 hours saved)",
+          "Deal coaching: AI insights reduce research time 60% (200 hours saved)",
+          "Total: 900 hours × $445/hour = $400K (67% adoption = $267K)"
+        ]
+      },
+      "customer_retention": {
+        "amount": "$250,000",
+        "drivers": [
+          "Churn reduction: 3 at-risk customers identified → 2 saved (67% success)",
+          "Average customer value: $125K ARR",
+          "Value preserved: 2 customers × $125K = $250K"
+        ]
+      },
+      "expansion_revenue": {
+        "amount": "$300,000",
+        "drivers": [
+          "Proactive expansion identification: 12 opportunities vs 6 historically",
+          "Average expansion deal: $50K",
+          "Incremental expansions: 6 × $50K = $300K"
+        ]
+      },
+      "marketing_efficiency": {
+        "amount": "$300,000",
+        "drivers": [
+          "Content velocity: 2-3 pieces/month → 10-15 pieces/month (5x increase)",
+          "Pipeline influence: 15% → 35% marketing-sourced",
+          "Incremental revenue: $120K",
+          "Cost avoidance: $180K (outsourced content creation savings)"
+        ]
+      }
+    },
+    "payback_period": "7-10 days",
+    "roi_percentage": "4,500%+",
+    "time_savings": {
+      "vp_sales": "15-20 hours/week",
+      "sales_reps": "12-15 hours/week (team aggregate)",
+      "marketing": "20-25 hours/week",
+      "customer_success": "8-10 hours/week"
+    }
+  },
+  "performance_metrics": {
+    "forecast_accuracy_improvement": {
+      "before": "±18% variance",
+      "after": "±8% variance",
+      "impact": "Better resource planning, credibility with CEO/board"
+    },
+    "proposal_generation_time": {
+      "before": "6 hours per proposal",
+      "after": "1 hour per proposal (3 min generation + 57 min review)",
+      "impact": "85% time reduction, 5x proposal volume capacity"
+    },
+    "content_velocity": {
+      "before": "2-3 marketing pieces/month",
+      "after": "10-15 marketing pieces/month",
+      "impact": "5-7x increase in content output"
+    },
+    "customer_health_visibility": {
+      "before": "Reactive churn discovery at renewal",
+      "after": "Proactive risk identification 90-180 days early",
+      "impact": "67% churn prevention success rate"
+    }
+  },
+  "implementation_timeline": {
+    "week_1_2": "MCP integrations (Salesforce, HubSpot, Zendesk, Filesystem)",
+    "week_3_4": "Pilot proposal generation (3-5 proposals, team training)",
+    "week_5_6": "Deploy customer health scoring (full customer base)",
+    "week_7_8": "Launch marketing content automation (first 3-5 case studies)",
+    "month_3_plus": "Scale across all use cases, optimize based on feedback"
+  },
+  "quick_wins_first_30_days": [
+    "3 proposals generated in 1 hour each (vs 6 hours manual) - immediate time savings",
+    "Customer health analysis identifies 2-3 at-risk accounts for early intervention",
+    "1-2 case studies drafted for immediate marketing use",
+    "Weekly pipeline dashboard automation (90 min → 10 min)"
+  ],
+  "success_criteria": {
+    "adoption_metrics": [
+      "80%+ of proposals generated with Claude assistance within 60 days",
+      "Weekly customer health monitoring established as team ritual",
+      "5+ marketing content pieces published monthly using Claude",
+      "Forecast variance improved to <±10% within 90 days"
+    ],
+    "business_impact": [
+      "Sales productivity time savings: 900+ hours annually",
+      "Customer churn reduction: 1-2 customers saved worth $125K+ each",
+      "Expansion pipeline growth: 6+ incremental opportunities identified",
+      "Marketing pipeline influence: 15% → 35% within 6 months"
+    ]
+  },
+  "tags": [
+    "revenue-operations",
+    "sales-automation",
+    "customer-success",
+    "marketing-content",
+    "e-rate",
+    "k12-education",
+    "rural-broadband",
+    "forecasting",
+    "churn-prediction",
+    "proposal-generation"
+  ],
+  "related_skills": [
+    "operations-strategic-intelligence (for operational execution)",
+    "financial-intelligence (for budget and pricing optimization)",
+    "executive-reporting (for board-level revenue reporting)"
+  ],
+  "best_practices": [
+    "Maintain CRM data quality (E-rate status, activities, opportunity updates)",
+    "Review customer health scores weekly (proactive vs reactive management)",
+    "Validate forecast accuracy monthly (refine E-rate probability adjustments)",
+    "Human review all AI-generated content (Claude drafts, human refines)",
+    "Quarterly algorithm tuning (adjust health scoring, probability models based on outcomes)"
+  ],
+  "known_limitations": [
+    "E-rate data requires manual updates (no public USAC API available)",
+    "Forecast accuracy depends on CRM data quality and completeness",
+    "Proposal customization still requires human review (5-10% final touches)",
+    "Customer health scoring improves over time (needs 2-3 months of data)",
+    "Industry-specific (optimized for K-12 rural broadband, requires adaptation for other markets)"
+  ],
+  "contact_info": {
+    "created_for": "Ty Sorensen, VP Sales, Marketing & Customer Success",
+    "organization": "ISPN Network Services",
+    "poc_implementation": "November 2024 - January 2025"
+  }
+}

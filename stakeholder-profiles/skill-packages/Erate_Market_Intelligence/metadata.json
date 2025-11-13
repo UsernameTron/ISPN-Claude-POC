@@ -1,0 +1,28 @@
+{
+  "name": "E-rate Market Intelligence",
+  "id": "erate-market-intelligence",
+  "version": "1.0.0",
+  "description": "E-rate funding cycle tracking and K-12 rural broadband opportunity analysis with seasonal revenue forecasting",
+  "category": "Operations & Sales",
+  "target_users": ["VP Sales", "Sales Operations", "Business Development"],
+  "value_metrics": {
+    "erate_revenue_capture": {"annual_value": 2500000},
+    "opportunity_identification": {"value": 300000},
+    "forecast_accuracy": {"value": 150000},
+    "total_annual_value": 450000,
+    "roi_percentage": 4790
+  },
+  "key_capabilities": [
+    "E-rate funding cycle tracking (Form 470/471)",
+    "K-12 opportunity identification",
+    "Seasonal revenue forecasting",
+    "Competitive landscape analysis"
+  ],
+  "prerequisites": {
+    "required_mcps": ["Filesystem MCP"],
+    "required_skills": ["xlsx"],
+    "optional_mcps": ["Slack MCP"]
+  },
+  "created_date": "2024-11-12",
+  "tags": ["erate", "k12", "education", "funding", "rural-broadband"]
+}

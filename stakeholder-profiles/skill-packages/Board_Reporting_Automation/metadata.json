@@ -1,0 +1,208 @@
+{
+  "skill_name": "board-reporting-automation",
+  "version": "1.0",
+  "created_date": "2025-01-12",
+  "category": "Executive Leadership & Board Relations",
+  "target_users": [
+    "CEO",
+    "President & CFO",
+    "SVP Operations",
+    "Chief Operating Officer",
+    "Board Relations Executives",
+    "Investor Relations Leaders"
+  ],
+  "specific_ispn_users": [
+    "Jeff Neblett (CEO)",
+    "Scott Lauber (President & CFO)",
+    "Charlie Brenneman (SVP Operations)"
+  ],
+  "prerequisites": {
+    "required_mcps": [
+      "Asana MCP (strategic initiative tracking)",
+      "Finance GL Integration (financial performance data)",
+      "Salesforce MCP (operational metrics, revenue data)",
+      "Filesystem MCP (board templates, historical presentations)"
+    ],
+    "optional_mcps": [],
+    "companion_skills": [
+      "PPTX (PowerPoint deck generation)",
+      "XLSX (financial model analysis)",
+      "DOCX (executive summary documents)"
+    ]
+  },
+  "key_features": [
+    "Quarterly Board Deck Generation (120 hrs → 8 hrs, 93% time savings)",
+    "Multi-Executive Coordination (Operations, Finance, CEO domains)",
+    "Executive Summary Automation (one-page board brief)",
+    "Board Committee Reports (Audit, Finance, Governance)",
+    "Strategic Initiative Portfolio Status (15-25 concurrent programs)",
+    "Financial Performance Narrative (P&L, balance sheet, cash flow, covenants)",
+    "Risk Assessment & Mitigation Reporting",
+    "Speaker Notes & Q&A Preparation"
+  ],
+  "roi_metrics": {
+    "time_savings_annual": "388 hours (3 executives combined)",
+    "time_savings_value": "$116,400",
+    "strategic_capacity_value": "$315,600",
+    "risk_reduction_value": "$18,000",
+    "total_year1_value": "$450,000",
+    "investment": "$6,240",
+    "roi_percentage": "7115%",
+    "payback_period": "14 days"
+  },
+  "multi_executive_value": {
+    "charlie_brenneman_svp_operations": {
+      "time_saved_per_quarter": "30-40 hours",
+      "annual_time_saved": "140 hours",
+      "annual_value": "$42,000",
+      "key_sections": [
+        "Operational performance metrics",
+        "Strategic initiative portfolio status",
+        "Resource utilization analysis",
+        "Operational risk assessment"
+      ]
+    },
+    "scott_lauber_president_cfo": {
+      "time_saved_per_quarter": "35-45 hours",
+      "annual_time_saved": "160 hours",
+      "annual_value": "$48,000",
+      "key_sections": [
+        "Financial performance analysis",
+        "Variance analysis and drivers",
+        "Cash flow and covenant compliance",
+        "Financial forecast scenarios",
+        "Capital allocation recommendations"
+      ]
+    },
+    "jeff_neblett_ceo": {
+      "time_saved_per_quarter": "25-35 hours",
+      "annual_time_saved": "120 hours",
+      "annual_value": "$36,000",
+      "key_sections": [
+        "Executive summary",
+        "Strategic positioning and competitive context",
+        "Board decision framing",
+        "Forward-looking strategy and priorities",
+        "Organizational health"
+      ]
+    },
+    "combined_executive_impact": {
+      "total_time_saved_quarterly": "90-120 hours",
+      "total_annual_time_saved": "420 hours",
+      "total_annual_value": "$126,000",
+      "additional_strategic_capacity_value": "$315,600",
+      "total_combined_value": "$450,000+"
+    }
+  },
+  "use_cases": [
+    "Quarterly board meeting preparation (25-40 slide deck in 20-30 minutes)",
+    "Board committee reporting (Audit, Finance, Compensation, Governance)",
+    "Executive summary generation (one-page board brief)",
+    "Multi-executive coordination workflow (Operations + Finance + CEO)",
+    "Emergency board briefings (crisis response, M&A, strategic decisions)",
+    "Speaker notes and Q&A preparation",
+    "Board decision framing with alternatives and recommendations",
+    "Historical quarter-over-quarter comparison analysis"
+  ],
+  "tags": [
+    "board-reporting",
+    "executive-presentations",
+    "quarterly-reporting",
+    "multi-executive",
+    "cross-functional",
+    "strategic-intelligence",
+    "financial-reporting",
+    "operational-reporting",
+    "board-governance",
+    "investor-relations",
+    "strategic-narrative",
+    "risk-reporting",
+    "decision-support",
+    "PowerPoint-automation"
+  ],
+  "industry": "Technology Services / Managed Services",
+  "organization_size": "Mid-Market ($50M+ revenue)",
+  "pain_points_addressed": [
+    "Board reporting time burden (120+ hours per quarter across executives)",
+    "Multi-executive coordination complexity (contradictory narratives)",
+    "Manual data synthesis from multiple systems (15-20 data sources)",
+    "Last-minute board deck preparation crunch (48 hours before meeting)",
+    "Board presentation quality and consistency issues",
+    "Speaker notes and Q&A preparation time",
+    "Cross-functional data reconciliation errors",
+    "Historical comparison and trend analysis manual effort",
+    "Board decision framing and alternatives analysis time",
+    "Strategic narrative development for technical/financial data"
+  ],
+  "business_value_drivers": [
+    "Executive time redeployment from tactical to strategic board preparation",
+    "Board decision velocity improvement (80%+ same-meeting decisions)",
+    "Board confidence in management reporting quality",
+    "Elimination of cross-executive contradictions in board materials",
+    "Real-time data access eliminates outdated information risk",
+    "Consistent board deck quality quarter-over-quarter",
+    "Enhanced board governance through comprehensive risk transparency",
+    "Strategic capacity gained for executive leadership activities"
+  ],
+  "board_presentation_structure": {
+    "standard_deck_slides": "25-40 slides",
+    "presentation_duration": "60-90 minutes",
+    "sections": [
+      "Executive Summary (1 slide)",
+      "Financial Performance (5-7 slides)",
+      "Operational Performance (4-6 slides)",
+      "Strategic Initiative Portfolio (5-8 slides)",
+      "Risk Assessment (2-3 slides)",
+      "Forward Outlook (3-5 slides)",
+      "Appendix (8-12 slides backup data)"
+    ],
+    "deliverables": [
+      "PowerPoint deck with ISPN branding",
+      "One-page executive summary (PDF)",
+      "Speaker notes for each slide",
+      "Q&A preparation document",
+      "Backup data appendix"
+    ]
+  },
+  "data_sources_integrated": {
+    "asana": "Strategic initiative portfolio (15-25 concurrent programs)",
+    "finance_gl": "P&L, balance sheet, cash flow, covenants, budget vs. actual",
+    "salesforce": "Operational metrics, revenue data, customer satisfaction",
+    "filesystem": "Board templates, historical presentations, operational KPIs"
+  },
+  "automation_workflow": {
+    "day_1_generation": "20-30 minutes (initial deck generation)",
+    "day_2_3_executive_review": "6-8 hours (coordinated review by 3 executives)",
+    "day_4_refinement": "10-15 minutes (apply executive feedback)",
+    "day_5_final_approval": "1.5 hours (final review by 3 executives)",
+    "total_time_investment": "8-10 hours (vs. 120 hours manual)",
+    "time_savings": "110-112 hours per quarter (93% reduction)"
+  },
+  "quality_metrics": {
+    "board_satisfaction_target": ">8.5/10",
+    "data_accuracy_target": "99%+",
+    "executive_review_cycles": "<2 iterations",
+    "board_decision_velocity": "80%+ same-meeting decisions",
+    "consistency_across_domains": "Zero contradictions between executive sections"
+  },
+  "implementation_timeline": {
+    "week_1_setup": "Configure MCPs, establish templates, data access verification",
+    "week_2_pilot": "Generate first board deck 10 days before meeting",
+    "week_3_executive_review": "Coordinated executive review and refinement",
+    "week_4_measurement": "Measure time savings, quality metrics, board feedback",
+    "ongoing_optimization": "Quarterly refinement based on executive and board feedback"
+  },
+  "scalability": {
+    "board_meetings_per_year": "4 quarterly meetings",
+    "committee_meetings_per_year": "8-12 committee meetings",
+    "special_presentations_per_year": "2-4 strategic reviews",
+    "emergency_briefings_per_year": "1-3 crisis or opportunity briefings",
+    "total_annual_presentations": "15-23 board-related presentations"
+  },
+  "competitive_advantage": {
+    "vs_manual_process": "93% time savings, 100% consistency improvement",
+    "vs_board_reporting_tools": "Strategic narrative synthesis (not just data viz)",
+    "vs_management_consultants": "Real-time data integration, $50K-$100K cost avoidance per quarter",
+    "unique_value": "Multi-executive domain synthesis with zero contradictions"
+  }
+}

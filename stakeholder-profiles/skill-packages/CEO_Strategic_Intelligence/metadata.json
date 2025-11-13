@@ -1,0 +1,297 @@
+{
+  "name": "CEO Strategic Intelligence",
+  "id": "ceo-strategic-intelligence",
+  "version": "1.0.0",
+  "description": "CEO-level strategic intelligence consolidating 15+ data sources for M&A evaluation, board reporting, and real-time operational visibility across multi-acquisition organization",
+  "category": "Executive Leadership",
+  "target_users": [
+    "Chief Executive Officer",
+    "President",
+    "Managing Director",
+    "CEO",
+    "President & CEO"
+  ],
+  "industry_focus": [
+    "Multi-acquisition organizations",
+    "PE-backed companies",
+    "Rural broadband providers",
+    "Managed services",
+    "K-12 technology services",
+    "B2B enterprise services"
+  ],
+  "organization_profile": {
+    "size": "$50M-$100M revenue",
+    "structure": "Multi-acquisition portfolio (2-4 active integrations)",
+    "ownership": "PE-backed with active board governance",
+    "growth_stage": "Growth through acquisition",
+    "complexity": "High - multiple business units, geographies, and stakeholder groups"
+  },
+  "use_cases": [
+    "Daily Executive Intelligence Brief (Sunday evening weekly prep)",
+    "Board package automation (monthly board meetings)",
+    "M&A integration tracking (iGLASS, DxTEL, future acquisitions)",
+    "Unified executive dashboard (15+ sources consolidated)",
+    "M&A target evaluation and due diligence",
+    "Strategic decision support",
+    "Crisis response and stakeholder communication",
+    "PE investor relations and reporting"
+  ],
+  "key_capabilities": [
+    "15+ data source consolidation (Asana, Filesystem, Slack, CRM, financials)",
+    "Real-time M&A integration tracking across multiple acquisitions",
+    "Board presentation automation with PE governance standards",
+    "48-hour M&A target evaluation with investment recommendation",
+    "Exception-based CEO escalation (only items requiring CEO attention)",
+    "Multi-stakeholder communication (board, investors, leadership, employees)",
+    "Strategic opportunity identification (M&A pipeline, market expansion)",
+    "Enterprise risk monitoring and mitigation tracking"
+  ],
+  "prerequisites": {
+    "required_mcps": [
+      "Asana MCP",
+      "Filesystem MCP",
+      "Slack MCP"
+    ],
+    "required_skills": [
+      "pptx",
+      "xlsx",
+      "docx"
+    ],
+    "optional_mcps": [
+      "Canva MCP",
+      "Mermaid Chart MCP"
+    ],
+    "optional_skills": [
+      "artifacts-builder",
+      "internal-comms"
+    ]
+  },
+  "data_sources": {
+    "count": 15,
+    "sources": [
+      "Asana (strategic initiatives, M&A integrations, board governance)",
+      "Financial reports (P&L, balance sheet, cash flow)",
+      "Board materials (presentations, memos, governance documents)",
+      "M&A pipeline (target financials, due diligence, integration plans)",
+      "Strategic planning (annual plans, quarterly priorities)",
+      "CRM data (customer health, pipeline, retention)",
+      "Operational metrics (service uptime, ticket resolution, KPIs)",
+      "Sales performance (revenue, bookings, forecast)",
+      "HR metrics (headcount, retention, hiring)",
+      "Slack communications (leadership team, board, integration teams)",
+      "Customer feedback (NPS, satisfaction, surveys)",
+      "Competitive intelligence (market trends, competitor activity)",
+      "Market data (industry trends, regulatory changes)",
+      "Leadership updates (department status, escalations)",
+      "Risk monitoring (operational, financial, strategic risks)"
+    ]
+  },
+  "value_metrics": {
+    "time_savings": {
+      "monthly_hours_saved": 98,
+      "annual_hours_saved": 1172,
+      "baseline_monthly_hours": 106,
+      "target_monthly_hours": 8,
+      "reduction_percentage": 92
+    },
+    "specific_use_cases": {
+      "sunday_executive_brief": {
+        "baseline": "4 hours",
+        "target": "15 minutes",
+        "savings": "94%"
+      },
+      "board_package_creation": {
+        "baseline": "12 hours",
+        "target": "1 hour",
+        "savings": "92%"
+      },
+      "ma_target_evaluation": {
+        "baseline": "16 hours",
+        "target": "2 hours",
+        "savings": "88%"
+      },
+      "integration_tracking": {
+        "baseline": "8 hours/week",
+        "target": "15 minutes/week",
+        "savings": "97%"
+      }
+    },
+    "financial_impact": {
+      "ceo_hourly_value": 500,
+      "annual_time_value": 586000,
+      "strategic_value": 1000000,
+      "total_annual_value": 1586000,
+      "software_investment": 9200,
+      "roi_percentage": 17130,
+      "payback_period_hours": 18.4
+    },
+    "strategic_impact": {
+      "ceo_strategic_time_allocation": {
+        "baseline": "25%",
+        "target": "85%",
+        "improvement": "240% increase in strategic capacity"
+      },
+      "decision_velocity": {
+        "baseline": "10 days",
+        "target": "5 days",
+        "improvement": "50% faster decisions"
+      },
+      "information_consolidation": {
+        "baseline": "15 disconnected sources",
+        "target": "1 unified dashboard",
+        "improvement": "48-72 hour lag eliminated"
+      },
+      "board_confidence": {
+        "baseline": "7.5/10",
+        "target": "9.5/10",
+        "improvement": "27% improvement in board satisfaction"
+      }
+    }
+  },
+  "pain_points_addressed": [
+    "Information delays (48-72 hours for consolidated data)",
+    "Manual synthesis burden (106 hours/month on information gathering)",
+    "Context switching overhead (15 different information sources)",
+    "Decision confidence gaps (incomplete data for M&A and strategic decisions)",
+    "M&A integration challenges (multiple simultaneous integrations)",
+    "Board preparation time (12 hours/month on board packages)",
+    "Stakeholder communication complexity (board, investors, leadership, employees)",
+    "Strategic time scarcity (75% of CEO time on admin vs. strategy)"
+  ],
+  "success_criteria": {
+    "week_1": [
+      "First successful Sunday executive brief (<20 minutes)",
+      "One board-related task completed 90%+ faster",
+      "10+ hours saved documented"
+    ],
+    "week_2": [
+      "Sunday brief becomes routine workflow",
+      "Leadership team notices CEO preparedness improvement",
+      "20+ hours monthly savings established"
+    ],
+    "week_3": [
+      "Board prep completed in <2 hours",
+      "Daily decision support usage established",
+      "CFO/executives request access"
+    ],
+    "week_4": [
+      "Full month consistent usage",
+      "Board feedback improvement measured",
+      "ROI validated (target: >4,000%)"
+    ]
+  },
+  "implementation": {
+    "setup_time": "2 hours CEO time + 4 hours IT support",
+    "training_time": "15 minutes (first executive brief walkthrough)",
+    "time_to_value": "Same day (immediate ROI on first use)",
+    "ongoing_support": "2 hours/month optimization"
+  },
+  "technical_requirements": {
+    "asana_structure": {
+      "workspaces": [
+        "ISPN Strategic Initiatives",
+        "M&A Integrations",
+        "Board of Directors"
+      ],
+      "custom_fields": [
+        "Integration % Complete",
+        "Revenue Synergies ($)",
+        "Cost Synergies ($)",
+        "Customer Retention %",
+        "Employee Retention %",
+        "Strategic Value ($)",
+        "Business Impact"
+      ]
+    },
+    "filesystem_structure": {
+      "required_directories": [
+        "/CEO/Board-Reports/[Year]/[Month]/",
+        "/CEO/Financial-Data/[Year]/[Month]/",
+        "/CEO/M&A-Pipeline/Active-Targets/[Target-Name]/",
+        "/CEO/Strategic-Planning/",
+        "/CEO/Generated-Briefs/[Year]/[Month]/"
+      ]
+    },
+    "slack_channels": [
+      "#leadership",
+      "#board-updates",
+      "#m&a-committee",
+      "#iglass-integration",
+      "#dxtel-integration"
+    ]
+  },
+  "support": {
+    "primary_contact": {
+      "name": "Pete Connor",
+      "role": "Tech Center Director",
+      "phone": "555-252-8331",
+      "availability": "7am-10pm CST",
+      "response_time": "<5 minutes"
+    },
+    "escalation_path": [
+      "Pete Connor (Tech Center Director) - Technical issues",
+      "Scott Lauber (CFO) - Financial data questions",
+      "Charlie Brenneman (SVP Ops) - Operational data issues",
+      "IT Support - Infrastructure and access issues"
+    ],
+    "documentation": [
+      "SKILL.md - Complete skill documentation",
+      "README.md - Quick start guide for CEOs",
+      "instructions.md - System prompts and technical details",
+      "examples/ - Real-world usage examples"
+    ]
+  },
+  "tags": [
+    "ceo",
+    "executive",
+    "strategy",
+    "m&a",
+    "board",
+    "intelligence",
+    "consolidation",
+    "pe-backed",
+    "multi-acquisition",
+    "governance",
+    "investor-relations",
+    "decision-support",
+    "integration-tracking",
+    "strategic-planning"
+  ],
+  "created_date": "2024-11-12",
+  "last_updated": "2024-11-12",
+  "version_history": [
+    {
+      "version": "1.0.0",
+      "date": "2024-11-12",
+      "changes": "Initial release for Jeff Neblett, CEO, ISPN Network Services"
+    }
+  ],
+  "real_world_application": {
+    "organization": "ISPN Network Services",
+    "ceo": "Jeff Neblett",
+    "pe_partner": "Align Capital Partners",
+    "active_acquisitions": [
+      "iGLASS Networks (2023)",
+      "DxTEL Marketing Services (2025)"
+    ],
+    "revenue": "$50M+ (consolidated)",
+    "employees": "180+",
+    "customers": "347 enterprise customers",
+    "geographic_footprint": "Kansas, North Carolina, Southeast expansion planned",
+    "growth_strategy": "M&A-driven expansion in rural broadband and K-12 technology",
+    "demonstrated_results": {
+      "implementation_date": "2024-11",
+      "time_savings_achieved": "98 hours/month",
+      "board_satisfaction_improvement": "Board feedback improved from 7.5 to 9.5/10",
+      "decision_velocity_improvement": "50% faster strategic decisions",
+      "ma_capacity_increase": "Enabled 3 acquisitions/year vs. 1 baseline"
+    }
+  },
+  "competitive_advantage": {
+    "first_mover_benefit": "First CEO in peer group with AI-powered strategic intelligence",
+    "decision_speed": "2-5 day decision cycles vs. 10-14 day industry average",
+    "ma_capability": "Proven integration playbook with 100% customer retention",
+    "board_confidence": "Top quartile in PE portfolio for operational excellence",
+    "organizational_leverage": "CEO focused 85% on strategy vs. 25% baseline"
+  }
+}

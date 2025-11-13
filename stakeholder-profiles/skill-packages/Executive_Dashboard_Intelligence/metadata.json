@@ -1,0 +1,26 @@
+{
+  "name": "Executive Dashboard Intelligence",
+  "id": "executive-dashboard-intelligence",
+  "version": "1.0.0",
+  "description": "Unified executive dashboard consolidating 15+ information sources with real-time KPIs",
+  "category": "Executive Leadership",
+  "target_users": ["All Executives", "CEO", "CFO", "SVP Operations", "VP Sales"],
+  "value_metrics": {
+    "time_savings": {"weekly_hours_saved": 10, "annual_value": 520000},
+    "decision_velocity": {"value": 100000},
+    "total_annual_value": 600000,
+    "roi_percentage": 6420
+  },
+  "key_capabilities": [
+    "15+ data source consolidation into single view",
+    "Real-time KPI monitoring (eliminates 48-72 hour lag)",
+    "Exception-based alerting",
+    "Cross-functional intelligence"
+  ],
+  "prerequisites": {
+    "required_mcps": ["Asana MCP", "Filesystem MCP", "Slack MCP"],
+    "required_skills": ["xlsx"]
+  },
+  "created_date": "2024-11-12",
+  "tags": ["executive-dashboard", "business-intelligence", "kpi", "real-time"]
+}

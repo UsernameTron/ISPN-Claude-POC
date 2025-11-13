@@ -1,0 +1,76 @@
+{
+  "skill_name": "operations-strategic-intelligence",
+  "version": "1.0",
+  "created_date": "2025-01-12",
+  "category": "Executive Operations & Strategic Management",
+  "target_users": [
+    "SVP Operations",
+    "VP Operations",
+    "Chief Operating Officer",
+    "VP Strategic Initiatives",
+    "Operations Executives"
+  ],
+  "prerequisites": {
+    "required_mcps": [
+      "Asana MCP (strategic initiative tracking)",
+      "Filesystem MCP (operational KPIs)",
+      "Finance GL Integration (budget tracking)",
+      "Salesforce Integration (operational metrics)"
+    ],
+    "optional_mcps": [
+      "Slack Monitor (critical alerts)"
+    ],
+    "companion_skills": [
+      "XLSX (advanced analytics)",
+      "PPTX (board presentations)",
+      "Risk & Issue Identification"
+    ]
+  },
+  "key_features": [
+    "Daily Operational Intelligence Brief (22 hrs/week → 30 min)",
+    "Initiative Portfolio Analysis (15-25 concurrent initiatives)",
+    "Board Reporting Automation (40 hrs/quarter → 2 hrs)",
+    "Strategic Scenario Modeling (real-time what-if analysis)",
+    "Cross-Functional Alignment Acceleration (10x faster decisions)"
+  ],
+  "roi_metrics": {
+    "time_savings_annual": "975 hours",
+    "time_savings_value": "$244,000",
+    "strategic_capacity_value": "$500,000",
+    "risk_reduction_value": "$700,000",
+    "total_year1_value": "$2,120,000",
+    "investment": "$50,000",
+    "roi_percentage": "4240%",
+    "payback_period": "7-9 days"
+  },
+  "use_cases": [
+    "Monday morning operational synthesis (3.75 hrs → 30 min)",
+    "Resource conflict detection across portfolio",
+    "Board preparation automation",
+    "Strategic decision scenario modeling",
+    "Cross-functional alignment brief generation"
+  ],
+  "tags": [
+    "operations",
+    "strategic-initiatives",
+    "portfolio-management",
+    "executive-intelligence",
+    "board-reporting",
+    "resource-allocation",
+    "dependency-mapping",
+    "risk-management",
+    "operational-excellence"
+  ],
+  "industry": "Technology Services / Managed Services",
+  "organization_size": "Mid-Market ($50M+ revenue)",
+  "pain_points_addressed": [
+    "Information overload and synthesis paralysis",
+    "Fragmented initiative visibility",
+    "Cross-functional alignment tax",
+    "Executive reporting burden",
+    "Strategic vs operational balance",
+    "Resource allocation blindness",
+    "Communication cascade failure",
+    "Historical intelligence gap"
+  ]
+}

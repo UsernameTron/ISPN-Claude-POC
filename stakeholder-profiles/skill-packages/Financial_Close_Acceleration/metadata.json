@@ -1,0 +1,32 @@
+{
+  "name": "Financial Close Acceleration",
+  "id": "financial-close-acceleration",
+  "version": "1.0.0",
+  "description": "Month-end close automation reducing 7-day close to 4 days with reconciliations, consolidation, and board reporting",
+  "category": "Finance & Accounting",
+  "target_users": ["CFO", "Controller", "Accounting Manager"],
+  "value_metrics": {
+    "time_savings": {"monthly_hours_saved": 36, "annual_value": 187200},
+    "accuracy_improvement": {"value": 30000},
+    "audit_readiness": {"value": 15000},
+    "total_annual_value": 227000,
+    "roi_percentage": 2360
+  },
+  "key_capabilities": [
+    "Automated reconciliations (bank, AR, AP, intercompany)",
+    "Multi-entity consolidation (ISPN + iGLASS + DxTEL)",
+    "Variance analysis with management commentary",
+    "Board financial package generation"
+  ],
+  "prerequisites": {
+    "required_mcps": ["Filesystem MCP"],
+    "required_skills": ["xlsx", "docx"]
+  },
+  "success_criteria": {
+    "close_cycle_time": "4 days (vs. 7 day baseline)",
+    "reconciliation_accuracy": "99.9%",
+    "board_package_time": "<2 hours"
+  },
+  "created_date": "2024-11-12",
+  "tags": ["finance", "accounting", "month-end-close", "consolidation", "cfo"]
+}

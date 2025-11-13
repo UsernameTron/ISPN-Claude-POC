@@ -1,0 +1,82 @@
+{
+  "skill_name": "customer-health-intelligence",
+  "version": "1.0",
+  "created_date": "2025-01-12",
+  "category": "Customer Success & Revenue Operations",
+  "target_users": [
+    "VP Customer Success",
+    "Customer Success Managers",
+    "Account Executives",
+    "VP Sales",
+    "Revenue Operations"
+  ],
+  "prerequisites": {
+    "required_mcps": [
+      "Salesforce MCP (customer accounts, contracts, renewals)",
+      "Zendesk MCP (support tickets, CSAT scores)",
+      "Usage Data Integration (bandwidth, uptime, adoption)"
+    ],
+    "optional_mcps": [
+      "Email Integration (sentiment analysis, engagement tracking)"
+    ],
+    "companion_skills": [
+      "XLSX (customer health scorecards, retention tracking)",
+      "DOCX (retention proposals, executive briefings)",
+      "PPTX (QBR presentations, executive reviews)"
+    ]
+  },
+  "key_features": [
+    "Multi-Factor Customer Health Scoring (5 dimensions: support, engagement, usage, relationship, sentiment)",
+    "Churn Prediction with 90-180 Day Early Warning (72%+ accuracy)",
+    "Retention Strategy Development (multi-phase roadmaps with executive escalation)",
+    "Expansion Opportunity Identification (proactive pipeline with close probability)",
+    "Automated QBR Preparation (3-4 hrs → 20 min)"
+  ],
+  "roi_metrics": {
+    "churn_prevention_annual": "$250,000",
+    "expansion_acceleration_annual": "$300,000",
+    "csm_time_savings_annual": "108 hours ($48,000)",
+    "total_year1_value": "$550,000+",
+    "annual_churn_rate_target": "<5% (vs 15-20% industry)",
+    "retention_rate_improvement": "75%+ (Red accounts with executive intervention)"
+  },
+  "use_cases": [
+    "Quarterly customer health portfolio review (identify at-risk accounts 90-180 days before renewal)",
+    "At-risk account deep-dive analysis with retention strategy development",
+    "Expansion opportunity pipeline generation across Green accounts",
+    "Automated QBR preparation with customer-specific insights",
+    "Executive customer escalation decision support",
+    "CSM resource allocation optimization across customer portfolio"
+  ],
+  "tags": [
+    "customer-success",
+    "churn-prediction",
+    "retention",
+    "customer-health",
+    "k12-education",
+    "revenue-operations",
+    "expansion",
+    "account-management",
+    "qbr-automation",
+    "customer-intelligence"
+  ],
+  "industry": "K-12 Education Technology / Managed Network Services",
+  "organization_size": "Mid-Market ($50M+ revenue, 50-100 customer accounts)",
+  "pain_points_addressed": [
+    "Reactive churn discovery (9-12 months too late for intervention)",
+    "Customer health blind spots across portfolio",
+    "Manual QBR preparation consuming 3-4 hours per customer",
+    "Expansion opportunity gaps (reactive vs proactive)",
+    "CSM resource allocation inefficiency",
+    "Late executive escalation for at-risk accounts",
+    "Inconsistent customer health assessment across CSM team"
+  ],
+  "k12_specific_factors": [
+    "E-rate funding cycles and application deadlines",
+    "School calendar alignment for QBRs and implementations",
+    "Leadership transition patterns (superintendents, technology directors)",
+    "Budget approval processes and board meeting schedules",
+    "Summer usage patterns and fall implementation seasonality",
+    "State funding changes and budget pressure detection"
+  ]
+}

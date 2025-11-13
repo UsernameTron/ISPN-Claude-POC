@@ -1,0 +1,118 @@
+{
+  "skill_name": "risk-early-warning-system",
+  "version": "1.0",
+  "created_date": "2025-01-12",
+  "category": "Cross-Functional Risk Management & Executive Intelligence",
+  "target_users": [
+    "CEO",
+    "CFO",
+    "Controller",
+    "COO",
+    "SVP Operations",
+    "VP Sales",
+    "All C-Suite Executives"
+  ],
+  "prerequisites": {
+    "required_mcps": [
+      "Asana MCP (initiative tracking)",
+      "Salesforce MCP (customer data)",
+      "Finance GL Integration (financial data)",
+      "Filesystem MCP (operational data)",
+      "Zendesk Integration (support tickets)"
+    ],
+    "optional_mcps": [
+      "Slack Monitor (communication patterns)"
+    ],
+    "companion_skills": [
+      "XLSX (advanced analytics)",
+      "Financial Analysis (budget variance prediction)",
+      "Customer Success Analytics (churn modeling)"
+    ]
+  },
+  "key_features": [
+    "Cross-Functional Risk Scoring (initiatives, customers, financial, compliance)",
+    "Initiative Risk Monitoring (2-3 week early detection)",
+    "Customer Churn Early Warning (60-90 day lead time)",
+    "Financial Variance Prediction (budget overrun detection)",
+    "Compliance Risk Monitoring (audit readiness tracking)",
+    "Dependency Conflict Detection (resource conflict identification)"
+  ],
+  "roi_metrics": {
+    "risk_events_prevented_annual": "18 events",
+    "risk_prevention_value": "$2,000,000",
+    "conservative_value_50pct": "$1,000,000",
+    "time_savings_annual": "330 hours",
+    "time_savings_value": "$83,500",
+    "total_year1_value": "$1,800,000",
+    "investment": "$40,000",
+    "roi_percentage": "4400%",
+    "payback_period": "8 days"
+  },
+  "risk_prevention_breakdown": {
+    "initiative_delays": {
+      "events_prevented": 8,
+      "annual_value": "$1,000,000"
+    },
+    "customer_churn": {
+      "events_prevented": 3,
+      "annual_value": "$450,000"
+    },
+    "budget_overruns": {
+      "events_prevented": 5,
+      "annual_value": "$250,000"
+    },
+    "compliance_violations": {
+      "events_prevented": 2,
+      "annual_value": "$300,000"
+    }
+  },
+  "detection_lead_times": {
+    "initiative_risk": "2-3 weeks",
+    "customer_churn": "60-90 days",
+    "financial_variance": "2-4 weeks",
+    "compliance_risk": "30-60 days",
+    "dependency_conflicts": "2-3 weeks"
+  },
+  "use_cases": [
+    "Weekly executive risk dashboard (45 min/week vs 3+ hours manual)",
+    "Customer churn early warning (60-90 day lead time)",
+    "Initiative budget overrun prediction (2-3 week lead time)",
+    "Compliance gap detection (30-60 day lead time)",
+    "Resource conflict identification (2-3 week lead time)",
+    "Board risk reporting (comprehensive risk assessment)"
+  ],
+  "tags": [
+    "risk-management",
+    "early-warning",
+    "predictive-analytics",
+    "cross-functional",
+    "initiative-risk",
+    "customer-churn",
+    "financial-risk",
+    "compliance-risk",
+    "dependency-management",
+    "executive-intelligence",
+    "proactive-prevention"
+  ],
+  "industry": "Technology Services / Managed Services",
+  "organization_size": "Mid-Market ($50M+ revenue)",
+  "pain_points_addressed": [
+    "Late discovery of risks (reactive firefighting)",
+    "Siloed risk visibility (no unified view)",
+    "Customer churn surprises (renewal losses)",
+    "Budget overruns discovered too late",
+    "Compliance violations and audit findings",
+    "Hidden dependencies causing cascading failures",
+    "Resource conflicts discovered after crisis",
+    "Executive time spent on crisis management vs prevention"
+  ],
+  "success_metrics": {
+    "prevented_events_target": "18 events/year",
+    "false_positive_rate_target": "<20%",
+    "false_negative_rate_target": "<10%",
+    "executive_review_time_target": "30 min/week",
+    "risk_prediction_accuracy_target": "70%+",
+    "detection_lead_time_initiative": "21 days",
+    "detection_lead_time_customer": "75 days"
+  }
+}

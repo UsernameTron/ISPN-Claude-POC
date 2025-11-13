@@ -1,0 +1,183 @@
+{
+  "name": "Initiative Portfolio Analysis",
+  "id": "initiative-portfolio-analysis",
+  "version": "1.0.0",
+  "description": "Cross-functional initiative portfolio management for 15-25 concurrent strategic projects with health scoring, dependency mapping, resource conflict detection, and executive decision support",
+  "category": "Executive Leadership & Operations",
+  "target_users": [
+    "Chief Executive Officer",
+    "SVP Operations",
+    "Chief Operating Officer",
+    "Program Management Office",
+    "CEO",
+    "COO"
+  ],
+  "industry_focus": [
+    "Multi-acquisition organizations",
+    "High-growth companies",
+    "PE-backed companies",
+    "Complex operational environments"
+  ],
+  "organization_profile": {
+    "size": "$50M-$100M revenue",
+    "structure": "Multi-functional organization with 15-25 concurrent strategic initiatives",
+    "complexity": "High - cross-functional dependencies, resource constraints, strategic priorities"
+  },
+  "use_cases": [
+    "Weekly portfolio health review for leadership meetings",
+    "Resource allocation and conflict resolution",
+    "Dependency mapping and critical path analysis",
+    "Initiative prioritization and portfolio optimization",
+    "Quarterly strategic planning and reviews",
+    "Executive dashboard for board/investor reporting"
+  ],
+  "key_capabilities": [
+    "Automated health scoring (Red/Yellow/Green) for 15-25 concurrent initiatives",
+    "Resource conflict detection with business impact quantification",
+    "Dependency mapping with critical path identification",
+    "Strategic value tracking and ROI analysis by initiative",
+    "Executive escalation with recommended actions",
+    "Portfolio optimization recommendations"
+  ],
+  "prerequisites": {
+    "required_mcps": [
+      "Asana MCP",
+      "Filesystem MCP"
+    ],
+    "required_skills": [
+      "xlsx"
+    ],
+    "optional_mcps": [
+      "Slack MCP"
+    ]
+  },
+  "value_metrics": {
+    "time_savings": {
+      "weekly_hours_saved": 18,
+      "annual_hours_saved": 936,
+      "baseline_weekly_hours": 20,
+      "target_weekly_hours": 2,
+      "reduction_percentage": 90
+    },
+    "financial_impact": {
+      "hourly_value": 350,
+      "annual_time_value": 327600,
+      "delivery_improvement_value": 500000,
+      "resource_optimization_value": 200000,
+      "total_annual_value": 900000,
+      "software_investment": 9200,
+      "roi_percentage": 9680,
+      "payback_period_hours": 26
+    },
+    "operational_impact": {
+      "on_time_delivery_improvement": "40% increase (40% → 80%)",
+      "portfolio_health_improvement": "25% increase (68 → 85 score)",
+      "resource_conflict_resolution": "5 days average (vs. 20 days baseline)",
+      "decision_velocity": "2x faster strategic decisions"
+    }
+  },
+  "pain_points_addressed": [
+    "Manual portfolio consolidation (20+ hours/week)",
+    "Lack of portfolio visibility across initiatives",
+    "Resource conflicts discovered too late",
+    "Initiative dependencies not mapped",
+    "Subjective prioritization without data",
+    "Delayed executive decisions due to incomplete information"
+  ],
+  "success_criteria": {
+    "week_1": [
+      "First weekly portfolio dashboard (<30 minutes)",
+      "Resource conflicts identified and quantified",
+      "10+ hours saved documented"
+    ],
+    "week_2": [
+      "Portfolio dashboard becomes routine workflow",
+      "Leadership team adoption across initiative owners",
+      "First resource conflict resolved with data"
+    ],
+    "week_3": [
+      "Dependency mapping integrated into planning",
+      "Prioritization recommendations implemented",
+      "Portfolio health score improving"
+    ],
+    "week_4": [
+      "Full month consistent usage",
+      "On-time delivery rate improving",
+      "ROI validated (target: >9,000%)"
+    ]
+  },
+  "implementation": {
+    "setup_time": "2 hours (Asana structure + Filesystem setup)",
+    "training_time": "30 minutes (first portfolio dashboard walkthrough)",
+    "time_to_value": "Same day (immediate ROI on first use)",
+    "ongoing_support": "1 hour/month optimization"
+  },
+  "technical_requirements": {
+    "asana_structure": {
+      "workspaces": [
+        "ISPN Strategic Initiatives"
+      ],
+      "custom_fields": [
+        "Health Status (Red/Yellow/Green)",
+        "% Complete",
+        "Budget Planned ($)",
+        "Budget Actual ($)",
+        "Strategic Value ($)",
+        "Priority (1-25)",
+        "Owner"
+      ]
+    },
+    "filesystem_structure": {
+      "required_directories": [
+        "/Initiatives/Active-Initiatives/[Initiative-Name]/",
+        "/Initiatives/Portfolio-Reports/[Year]/[Month]/",
+        "/Initiatives/Executive-Dashboards/"
+      ]
+    }
+  },
+  "support": {
+    "primary_contact": {
+      "name": "Pete Connor",
+      "role": "Tech Center Director",
+      "phone": "555-252-8331"
+    },
+    "business_owner": {
+      "name": "Charlie Brenneman",
+      "role": "SVP Operations"
+    }
+  },
+  "tags": [
+    "portfolio-management",
+    "strategic-initiatives",
+    "resource-optimization",
+    "cross-functional",
+    "executive",
+    "operations",
+    "dependency-mapping",
+    "health-scoring",
+    "decision-support"
+  ],
+  "created_date": "2024-11-12",
+  "last_updated": "2024-11-12",
+  "version_history": [
+    {
+      "version": "1.0.0",
+      "date": "2024-11-12",
+      "changes": "Initial release for ISPN Network Services"
+    }
+  ],
+  "real_world_application": {
+    "organization": "ISPN Network Services",
+    "primary_users": [
+      "Charlie Brenneman (SVP Operations)",
+      "Jeff Neblett (CEO)"
+    ],
+    "portfolio_size": "22 active strategic initiatives",
+    "demonstrated_results": {
+      "time_savings": "18 hours/week (20 → 2 hours)",
+      "on_time_delivery": "40% improvement",
+      "portfolio_health": "25% improvement",
+      "resource_conflicts": "90% reduction in resolution time"
+    }
+  }
+}

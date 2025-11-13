@@ -1,0 +1,227 @@
+{
+  "skill_name": "sales-enablement-automation",
+  "version": "1.0",
+  "created_date": "2025-01",
+  "target_users": [
+    {
+      "role": "VP Sales",
+      "primary_use_cases": [
+        "Pipeline reporting and forecast automation",
+        "Deal desk analysis and pricing approvals",
+        "Competitive intelligence and win/loss analysis",
+        "Sales team coaching and performance tracking"
+      ]
+    },
+    {
+      "role": "Sales Representatives",
+      "primary_use_cases": [
+        "Automated proposal generation (6 hrs → 1 hr)",
+        "RFP response automation (8 hrs → 2 hrs)",
+        "CRM workflow automation (activity logging, follow-ups)",
+        "Sales content creation (emails, presentations)"
+      ]
+    },
+    {
+      "role": "Sales Operations",
+      "primary_use_cases": [
+        "CRM data management and pipeline hygiene",
+        "Sales content library management",
+        "Competitive intelligence updates",
+        "Process optimization and training"
+      ]
+    },
+    {
+      "role": "Account Executives",
+      "primary_use_cases": [
+        "Customer proposal generation",
+        "Deal strategy and competitive positioning",
+        "Pricing analysis and margin optimization",
+        "E-rate application support"
+      ]
+    }
+  ],
+  "industry_focus": "K-12 Education",
+  "market_segment": "Rural Broadband Connectivity",
+  "key_differentiators": [
+    "E-rate funding expertise (Form 470/471, discount calculations, compliance)",
+    "K-12 buyer persona specialization (superintendents, tech directors, business managers)",
+    "Rural broadband market focus (infrastructure challenges, local support)",
+    "6-18 month sales cycle optimization (committee decisions, seasonal patterns)"
+  ],
+  "mcp_requirements": {
+    "critical": [
+      {
+        "name": "Salesforce/CRM MCP",
+        "purpose": "Customer data, pipeline opportunities, activities, historical pricing",
+        "data_access": [
+          "Account records (district demographics, decision makers, current services)",
+          "Opportunity pipeline (stage, value, close date, competition)",
+          "Activity history (meetings, proposals, emails)",
+          "Custom fields (E-rate discount rate, E-rate status, student count)"
+        ]
+      },
+      {
+        "name": "Filesystem MCP",
+        "purpose": "Content library for proposals, RFPs, competitive intelligence, pricing",
+        "data_access": [
+          "Proposal templates and archives",
+          "RFP response library",
+          "Competitive battle cards",
+          "Pricing models and E-rate data"
+        ]
+      }
+    ],
+    "optional": [
+      {
+        "name": "HubSpot MCP",
+        "purpose": "Marketing automation, lead nurture, content recommendations",
+        "data_access": [
+          "Lead records and scoring",
+          "Email engagement metrics",
+          "Marketing content library",
+          "Campaign performance data"
+        ]
+      },
+      {
+        "name": "Pricing Database",
+        "purpose": "Historical pricing, competitive intelligence, margin analysis",
+        "alternatives": [
+          "Filesystem-based pricing models (Excel/CSV)",
+          "CRM custom fields for pricing data",
+          "Spreadsheet pricing calculator"
+        ]
+      }
+    ]
+  },
+  "roi_metrics": {
+    "total_annual_value": "$267,000+",
+    "value_breakdown": {
+      "proposal_generation": {
+        "amount": "$223,000",
+        "drivers": [
+          "5 hours → 1 hour per proposal (83% time reduction)",
+          "25-30 proposals/year per rep × 3 reps = 375 hours saved",
+          "375 hours × $595/hour fully loaded = $223K"
+        ]
+      },
+      "rfp_response_automation": {
+        "amount": "$161,000",
+        "drivers": [
+          "8 hours → 2 hours per RFP (75% time reduction)",
+          "15-20 RFPs/year per rep × 3 reps = 270 hours saved",
+          "270 hours × $595/hour = $161K"
+        ]
+      },
+      "deal_desk_analysis": {
+        "amount": "$52,000",
+        "drivers": [
+          "2 hours → 15 minutes per analysis (87.5% time reduction)",
+          "50 analyses/year across team = 87 hours saved",
+          "87 hours × $595/hour = $52K"
+        ]
+      },
+      "crm_workflow_automation": {
+        "amount": "$150,000+",
+        "drivers": [
+          "Pipeline reporting: 90 min → 10 min weekly (69 hours/year)",
+          "Email follow-ups: 30 min → 5 min daily (156 hours/year)",
+          "Activity logging: 10 hrs → 3 hrs weekly (364 hours/year)",
+          "Total: 589 hours × $595 = $350K (conservative 41% = $144K)"
+        ]
+      }
+    },
+    "payback_period": "5-7 days",
+    "roi_percentage": "8,900%+",
+    "conservative_adoption_factor": "41%",
+    "time_savings": {
+      "per_rep": "~14 hours/week (proposal, RFP, CRM, email)",
+      "team_aggregate": "1,096 hours/year (3 reps)",
+      "fte_equivalent": "0.5 FTE capacity gained"
+    }
+  },
+  "performance_metrics": {
+    "proposal_generation_time": {
+      "before": "6 hours per proposal",
+      "after": "1 hour per proposal (3 min generation + 57 min review)",
+      "impact": "5x faster delivery, higher win rate (first responder advantage)"
+    },
+    "rfp_response_time": {
+      "before": "8-12 hours per RFP",
+      "after": "2-3 hours per RFP (8 min generation + customization)",
+      "impact": "4-5x faster response, handle 3x volume without adding staff"
+    },
+    "deal_desk_analysis": {
+      "before": "2 hours for pricing analysis",
+      "after": "15 minutes for complete analysis",
+      "impact": "8x faster decision-making, better margin optimization"
+    },
+    "pipeline_reporting": {
+      "before": "90 minutes weekly manual reporting",
+      "after": "10 minutes automated reporting",
+      "impact": "9x time savings, real-time forecast accuracy"
+    }
+  },
+  "implementation_timeline": {
+    "week_1_2": "MCP integrations (Salesforce, Filesystem), content library setup",
+    "week_3_4": "Pilot proposal generation (5-10 proposals, team training)",
+    "week_5_6": "Deploy RFP response automation (first 2-3 RFPs)",
+    "week_7_8": "Launch deal desk analysis and pipeline reporting",
+    "month_3_plus": "Scale across all use cases, optimize based on feedback"
+  },
+  "quick_wins_first_30_days": [
+    "5-10 proposals generated in 1 hour each (vs 6 hours manual) - $20K+ value",
+    "2-3 RFP responses in 2 hours each (vs 8-12 hours) - $8K+ value",
+    "Weekly pipeline report automated (10 min vs 90 min) - $2K+ annual value",
+    "Email follow-ups automated (5 min vs 30 min daily) - $5K+ annual value"
+  ],
+  "success_criteria": {
+    "adoption_metrics": [
+      "80%+ of proposals generated with Claude assistance within 60 days",
+      "100% of RFP responses use Claude automation within 90 days",
+      "Weekly pipeline reporting fully automated within 30 days",
+      "90%+ of follow-up emails use Claude templates within 60 days"
+    ],
+    "business_impact": [
+      "Sales productivity: 1,096+ hours saved annually (3 reps)",
+      "Proposal velocity: 5x faster delivery (6 hrs → 1 hr)",
+      "Win rate improvement: 5-10% (faster response, consistent quality)",
+      "Pipeline visibility: Real-time forecast updates vs weekly manual"
+    ]
+  },
+  "tags": [
+    "sales-enablement",
+    "sales-automation",
+    "proposal-generation",
+    "rfp-response",
+    "deal-desk",
+    "pricing-analysis",
+    "competitive-intelligence",
+    "crm-automation",
+    "e-rate",
+    "k12-sales"
+  ],
+  "related_skills": [
+    "revenue-operations-intelligence (for VP Sales leadership and forecasting)",
+    "customer-success-automation (for post-sale handoff and renewal)",
+    "marketing-content-generation (for sales-marketing alignment)"
+  ],
+  "best_practices": [
+    "Maintain CRM data quality (E-rate status, activities, competition, decision makers)",
+    "Update content library quarterly (proposals, RFPs, battle cards)",
+    "Review AI-generated content (Claude drafts 95%, human customizes 5%)",
+    "Track time savings and win rates (measure ROI and optimize)",
+    "Integrate into daily workflow (morning prep, post-meeting follow-up, end-of-day drafting)"
+  ],
+  "known_limitations": [
+    "E-rate calculations require accurate discount rate in CRM (updated annually)",
+    "Proposal quality depends on CRM data completeness (garbage in, garbage out)",
+    "Competitive intelligence requires regular updates (win/loss data, pricing trends)",
+    "First-time proposals need more human customization (builds library over time)",
+    "Industry-specific (optimized for K-12 rural broadband, requires adaptation for other markets)"
+  ],
+  "contact_info": {
+    "created_for": "Ty Sorensen (VP Sales), Sales Team",
+    "organization": "ISPN Network Services",
+    "poc_implementation": "November 2024 - January 2025"
+  }
+}

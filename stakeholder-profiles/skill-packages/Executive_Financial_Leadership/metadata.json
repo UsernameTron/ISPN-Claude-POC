@@ -1,0 +1,162 @@
+{
+  "skill_name": "executive-financial-leadership",
+  "version": "1.0",
+  "created_date": "2025-01-12",
+  "category": "Executive Finance & Strategic Financial Management",
+  "target_users": [
+    "Chief Financial Officer (CFO)",
+    "President & CFO (Dual Role)",
+    "VP Finance",
+    "Dual-Role Financial Executives",
+    "CFO/COO Executives"
+  ],
+  "prerequisites": {
+    "required_mcps": [
+      "Filesystem MCP (financial data files: GL extracts, budgets, forecasts)",
+      "Asana MCP (strategic initiative budget tracking)",
+      "Salesforce Integration (revenue metrics, pipeline data)",
+      "Finance GL Integration (general ledger, journal entries, trial balance)"
+    ],
+    "optional_mcps": [
+      "Banking/Treasury Integration (bank statements, covenant compliance)"
+    ],
+    "companion_skills": [
+      "XLSX (advanced financial spreadsheet analysis)",
+      "PDF (compliance document processing)",
+      "PPTX (board presentation automation)",
+      "Financial Analysis (predictive modeling and scenario analysis)"
+    ]
+  },
+  "key_features": [
+    "Monthly Financial Close Automation (40 hrs/month → 2 hrs)",
+    "Board Reporting Automation (40 hrs/quarter → 2 hrs)",
+    "M&A Financial Due Diligence (2 weeks → 3 days)",
+    "Real-Time Financial Scenario Modeling (same day vs. weeks)",
+    "Weekly Executive Financial Dashboard",
+    "Automated Covenant Compliance Monitoring"
+  ],
+  "roi_metrics": {
+    "time_savings_annual": "650+ hours",
+    "time_savings_value": "$137,150",
+    "quality_improvements_value": "$135,000",
+    "decision_speed_value": "$750,000",
+    "strategic_capacity_value": "$500,000-$1,000,000",
+    "total_year1_value": "$800,000-$1,200,000",
+    "investment": "$12,000",
+    "roi_percentage": "6,500%+",
+    "payback_period": "5-6 days"
+  },
+  "use_cases": [
+    "Monthly financial close and variance analysis (38 hrs/month saved)",
+    "Quarterly board presentation package (38 hrs/quarter saved)",
+    "M&A target financial evaluation and due diligence (32 hrs/deal saved)",
+    "Real-time financial scenario modeling (7.5 hrs/scenario saved)",
+    "Weekly executive financial dashboard (2.75 hrs/week saved)",
+    "Covenant compliance monitoring and risk alerts (automated)"
+  ],
+  "tags": [
+    "cfo",
+    "financial-leadership",
+    "board-reporting",
+    "financial-close",
+    "ma-evaluation",
+    "scenario-modeling",
+    "covenant-compliance",
+    "dual-role-executive",
+    "strategic-finance",
+    "financial-forecasting",
+    "executive-intelligence"
+  ],
+  "industry": "Healthcare Technology / SaaS / Managed Services",
+  "organization_size": "Mid-Market ($50M+ revenue)",
+  "pain_points_addressed": [
+    "Healthcare reimbursement complexity and revenue recognition",
+    "Board reporting burden (40+ hours quarterly)",
+    "Scaling financial infrastructure during rapid growth",
+    "Operational data fragmentation across systems",
+    "Strategic planning bandwidth constraints (dual role)",
+    "Manual financial close consuming 5 days monthly",
+    "M&A evaluation capacity constraints (2-3 deals/year max)",
+    "Slow financial scenario analysis (weeks vs. real-time)",
+    "CFO trapped in tactical work vs. strategic leadership"
+  ],
+  "target_personas": {
+    "primary": {
+      "role": "President & CFO (Dual Role)",
+      "example": "Scott Lauber - ISPN",
+      "key_challenges": [
+        "Balancing operational leadership with financial stewardship",
+        "Board reporting consuming 40+ hours quarterly",
+        "Limited bandwidth for M&A evaluation and strategic planning",
+        "Financial close process manual and time-consuming",
+        "Operational data scattered across multiple systems"
+      ],
+      "value_proposition": "Free 600+ hours annually by automating tactical financial work, enabling 90% strategic focus vs. current 30%"
+    },
+    "secondary": [
+      {
+        "role": "CFO (Healthcare/SaaS)",
+        "key_challenges": [
+          "Complex revenue recognition (healthcare reimbursement)",
+          "Board and lender reporting burden",
+          "Scaling financial operations during growth",
+          "M&A evaluation capacity constraints"
+        ]
+      },
+      {
+        "role": "VP Finance",
+        "key_challenges": [
+          "Supporting CFO with financial analysis and reporting",
+          "Manual financial close processes",
+          "Budget variance analysis time-consuming",
+          "Limited capacity for strategic projects"
+        ]
+      }
+    ]
+  },
+  "strategic_impact": {
+    "time_liberation": "600+ hours annually freed from tactical work",
+    "strategic_focus_shift": "30% → 90% strategic focus",
+    "decision_acceleration": "Financial decisions 10x faster (weeks → same day)",
+    "ma_capacity_expansion": "2-3 deals/year → 5-6 deals/year evaluation capacity",
+    "board_confidence": "Higher quality financial reporting improves governance",
+    "risk_mitigation": "Proactive covenant monitoring prevents compliance issues"
+  },
+  "unique_value_propositions": [
+    "Only financial skill designed specifically for dual-role CFO/President executives",
+    "Healthcare + SaaS financial metrics integration (complex reimbursement + recurring revenue)",
+    "M&A evaluation acceleration (4x faster) enables competitive deal advantage",
+    "Board-quality automation (40 hrs → 2 hrs) without sacrificing quality",
+    "Real-time scenario modeling for strategic capital allocation decisions"
+  ],
+  "implementation_timeline": {
+    "phase1_foundation": "Weeks 1-2 (data integration setup)",
+    "phase2_pilot": "Weeks 3-4 (first month-end close validation)",
+    "phase3_rollout": "Weeks 5-8 (board reporting, M&A templates)",
+    "phase4_optimization": "Weeks 9-12 (scenario modeling, weekly dashboards)",
+    "time_to_value": "First month-end close (3-4 weeks)"
+  },
+  "success_criteria": {
+    "quantitative": [
+      "Financial close: 5 days → 1.5 days (70% reduction)",
+      "Board prep: 40 hrs → 2 hrs (95% reduction)",
+      "M&A evaluation: 2 weeks → 3 days (77% reduction)",
+      "Forecast accuracy: ±5-8% → ±3-4% (50% improvement)",
+      "CFO strategic time: 30% → 90% (3x increase)"
+    ],
+    "qualitative": [
+      "Board satisfaction with financial reporting quality",
+      "CFO confidence in automated analysis accuracy",
+      "Finance team satisfaction with automation",
+      "Lender/shareholder confidence in financial controls",
+      "CFO perception of strategic capacity liberation"
+    ]
+  },
+  "competitive_advantages": [
+    "Dual-role optimization: Addresses both CFO and President responsibilities",
+    "Healthcare-specific: Handles complex reimbursement and revenue recognition",
+    "M&A acceleration: Competitive advantage in deal evaluation speed",
+    "Board-quality outputs: Institutional-grade financial reporting without manual drafting",
+    "Strategic focus enablement: Transforms CFO from tactical to strategic role"
+  ]
+}

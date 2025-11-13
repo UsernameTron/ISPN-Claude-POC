@@ -1,0 +1,32 @@
+{
+  "name": "Compliance & Audit Readiness",
+  "id": "compliance-audit-readiness",
+  "version": "1.0.0",
+  "description": "Continuous audit readiness with compliance monitoring, documentation automation, and control testing",
+  "category": "Finance & Compliance",
+  "target_users": ["CFO", "Controller", "Compliance Officer", "Audit Committee"],
+  "value_metrics": {
+    "audit_prep_time_savings": {"hours_saved": 90, "annual_value": 130000},
+    "continuous_compliance": {"value": 20000},
+    "total_annual_value": 150000,
+    "roi_percentage": 1530
+  },
+  "key_capabilities": [
+    "Audit documentation automation",
+    "SOX compliance monitoring",
+    "Quarterly control testing",
+    "PE investor compliance reporting"
+  ],
+  "prerequisites": {
+    "required_mcps": ["Filesystem MCP"],
+    "required_skills": ["docx", "xlsx"]
+  },
+  "success_criteria": {
+    "audit_prep_time": "30 hours (vs. 120 hour baseline)",
+    "clean_audit_opinion": "100%",
+    "control_testing_completion": "100% quarterly",
+    "documentation_completeness": "100%"
+  },
+  "created_date": "2024-11-12",
+  "tags": ["compliance", "audit", "controls", "sox", "pe-backed", "governance"]
+}

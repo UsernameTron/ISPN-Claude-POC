@@ -1,7 +1,6 @@
 # ISPN Board Presentation - Final Preparation Checklist
 ## Claude Desktop POC - Executive Presentation
 
-**Canva Presentation:** https://www.canva.com/design/DAG4drc1HE8/XqWf6nzkDFYHFpZQx19mVA/edit
 
 ---
 

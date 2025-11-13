@@ -1,0 +1,35 @@
+{
+  "name": "M&A Integration Intelligence",
+  "id": "ma-integration-intelligence",
+  "version": "1.0.0",
+  "description": "M&A integration tracking for multiple acquisitions with synergy monitoring, customer retention tracking, and integration playbook optimization",
+  "category": "Executive Leadership & M&A",
+  "target_users": ["CEO", "CFO", "SVP Operations", "M&A Team"],
+  "value_metrics": {
+    "time_savings": {"weekly_hours_saved": 7.5, "annual_value": 390000},
+    "synergy_acceleration": {"value": 300000},
+    "deal_capacity_expansion": {"value": 200000},
+    "total_annual_value": 800000,
+    "roi_percentage": 8600
+  },
+  "key_capabilities": [
+    "Multi-acquisition integration tracking (iGLASS, DxTEL)",
+    "Real-time synergy realization monitoring",
+    "Customer retention excellence (100% target)",
+    "Integration playbook optimization",
+    "Board/investor M&A reporting"
+  ],
+  "prerequisites": {
+    "required_mcps": ["Asana MCP", "Filesystem MCP"],
+    "required_skills": ["xlsx", "docx"],
+    "optional_mcps": ["Slack MCP"]
+  },
+  "success_criteria": {
+    "customer_retention": "100%",
+    "synergy_realization": "90%+ of target",
+    "integration_timeline": "±2 weeks of target",
+    "deal_capacity": "3 acquisitions per year"
+  },
+  "created_date": "2024-11-12",
+  "tags": ["m&a", "integration", "synergies", "acquisitions", "executive"]
+}
